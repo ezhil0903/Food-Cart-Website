@@ -10,67 +10,67 @@ function App() {
 		{ id: 1, 
 		  name: 'idly', 
 		  price: 7, 
-		  image: 'idly.jpeg'
+		  image: '/idly.jpeg'
 
 		},
 
 		{ id: 2, 
 		  name: 'dosa', 
 		  price: 45, 
-		  image: 'dosai.jpeg'
+		  image: '/dosai.jpeg'
 
 		},
 
 		{ id: 3, 
 		  name: 'poori', 
 		  price: 15, 
-		  image:'poori.jpeg'
+		  image:'/poori.jpeg'
 
 		},
 
 		{ id: 4, 
 		  name: 'pongal', 
 		  price: 40, 
-		  image:'pongal.jpeg'
+		  image:'/pongal.jpeg'
 	
 		},
 
 		{ id: 5, 
 		  name: 'chapathi', 
 		  price: 20, 
-		  image:'chappathi.jpeg'
+		  image:'/chappathi.jpeg'
 		
 		},
 
 		{ id: 6, 
 		  name: 'parotta', 
 		  price: 17, 
-		  image:'parotta.jpeg'
+		  image:'/parotta.jpeg'
 		},
 
 		{ id: 7, 
 		  name: 'idiyaapam', 
 		  price: 30, 
-		  image:'idi.jpeg'
+		  image:'/idi.jpeg'
 		  },
 				
 		{ id: 8, 
 		  name: 'vada', 
 		  price: 8, 
-		  image:'vada.jpeg'
+		  image:'/vada.jpeg'
 
 		},
 
 		{ id: 9, 
 		  name: 'bonda', 
 		  price: 10, 
-		  image:'bonda.jpeg'
+		  image:'/bonda.jpeg'
 		},
 
 		{ id: 10, 
 		  name: 'samosa', 
 		  price: 8, 
-		  image:'samosa.jpeg'
+		  image:'/samosa.jpeg'
 		},
 	]);
 
